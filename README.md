@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I’m an Aspiring Data Analyst
 
-<!--
-**Shalom-saji-Samuel/Shalom-saji-Samuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on turning raw datasets into structured, insight-driven dashboards using **SQL, Power BI, Excel, and OpenRefine**.  
+My work emphasizes **data cleaning, data modeling, and business-oriented analysis**, not just tool usage.
 
-Here are some ideas to get you started:
+I try to follow a **mastery-cycle learning approach** — deeply learning one tool at a time and then integrating them into real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Core Skills
+
+### Data Analysis
+- Excel & Power bi Dashboards , are used to provide insights 
+
+### Data Cleaning & Preparation
+- Using Open Refine for big data , and excel for small to medium sized datasets 
+
+### Data Modeling
+- Using power pivot in excel , and modelling tab in power bi
+
+### Analytical Thinking
+- SQL queries need heavy logic understanding before writing queries
+- Power bi dax measures also require some level of analytical / logical thinking
+---
+
+#  Featured Projects
+
+## Steam Games Taxonomy (Flagship)
+A full taxonomy and analytics project transforming raw Steam data into a structured classification system and insight-driven dashboard.  
+**Tools:** SQL, Power BI, Data modeling
+
+## Household Income Analysis
+Cleaned using **OpenRefine**, then visualized in Power BI to identify patterns in self-employed income across neighborhoods.
+
+## Dog Breeds Analysis
+Explored relationships between energy level, popularity, and life expectancy using Excel + Power BI.
+
+
+---
+
+# Goal
+
+To become a **Junior Data Analyst** who can:
+- Clean messy data
+- Model it properly
+- Generate real business insights
+- Communicate them through dashboards
+
+

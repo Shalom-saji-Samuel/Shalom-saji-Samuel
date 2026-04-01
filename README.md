@@ -32,9 +32,14 @@ A full taxonomy and analytics project transforming raw Steam data into a structu
 ## Household Income Analysis
 Cleaned using **OpenRefine**, then visualized in Power BI to identify patterns in self-employed income across neighborhoods.
 
-## Dog Breeds Analysis
-Explored relationships between energy level, popularity, and life expectancy using Excel + Power BI.
+## Sales analytics sql -> powerbi 
+End to end sales analytics project building a star schema in SQL and developing a Power BI dashboard to track revenue, customer behavior etc.
 
+## Real Estate Project
+Real estate market analysis exploring pricing trends, regional differences, and key value drivers using SQL and Power BI, supported by an interactive dashboard.
+
+## Excel Retail Project
+Excel based retail sales analysis identifying profitability drivers, discount impact, and regional performance using pivot tables and an interactive dashboard.
 
 ---
 

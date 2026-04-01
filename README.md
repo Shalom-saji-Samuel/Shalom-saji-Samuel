@@ -36,7 +36,7 @@ Cleaned using **OpenRefine**, then visualized in Power BI to identify patterns i
 End to end sales analytics project building a star schema in SQL and developing a Power BI dashboard to track revenue, customer behavior etc.
 
 ## Real Estate Project
-Real estate market analysis exploring pricing trends, regional differences, and key value drivers using SQL and Power BI, supported by an interactive dashboard.
+Real estate market analysis exploring pricing trends, regional differences, and key value drivers using python , SQL and supported by a Power bi interactive dashboard.
 
 ## Excel Retail Project
 Excel based retail sales analysis identifying profitability drivers, discount impact, and regional performance using pivot tables and an interactive dashboard.

@@ -25,7 +25,7 @@ I try to follow a **mastery-cycle learning approach** — deeply learning one to
 
 #  Featured Projects
 
-## Steam Games Taxonomy (Flagship)
+## Steam Games Taxonomy
 A full taxonomy and analytics project transforming raw Steam data into a structured classification system and insight-driven dashboard.  
 **Tools:** SQL, Power BI, Data modeling
 

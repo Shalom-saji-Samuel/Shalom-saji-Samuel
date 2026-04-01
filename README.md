@@ -10,17 +10,17 @@ I try to follow a **mastery-cycle learning approach** — deeply learning one to
 # Core Skills
 
 ### Data Analysis
-- Excel & Power bi Dashboards , are used to provide insights 
+- **Excel & Power bi** Dashboards , are used to provide insights 
 
 ### Data Cleaning & Preparation
-- I use python , Open Refine or excel , to clean data depending on the size of dataset
+- I use **python , Open Refine or excel** , to clean data depending on the size of dataset
 
 ### Data Modeling
-- Using power pivot in excel , and modelling tab in power bi
+- Using **power pivot in excel** , and **modelling tab in power bi**
 
 ### Analytical Thinking
-- SQL queries need heavy logic understanding before writing queries
-- Power bi dax measures also require some level of analytical / logical thinking
+- **SQL** queries need heavy logic understanding before writing queries
+- Power bi **dax measures** also require some level of analytical / logical thinking
 ---
 
 #  Featured Projects

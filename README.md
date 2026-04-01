@@ -13,7 +13,7 @@ I try to follow a **mastery-cycle learning approach** — deeply learning one to
 - Excel & Power bi Dashboards , are used to provide insights 
 
 ### Data Cleaning & Preparation
-- Using Open Refine for big data , and excel for small to medium sized datasets 
+- I use python , Open Refine or excel , to clean data depending on the size of dataset
 
 ### Data Modeling
 - Using power pivot in excel , and modelling tab in power bi
